@@ -1,1 +1,3 @@
-# Reddit Privacy Evaluator - Backend (hosted: Heroku)
+# Reddit Privacy Evaluator - Backend
+
+- hosted: https://reddit-pe-backend.herokuapp.com
